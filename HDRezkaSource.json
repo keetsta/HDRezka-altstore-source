@@ -26,11 +26,11 @@
       ],
       "versions": [
         {
-          "version": "1.0.4.4",
+          "version": "1.0.4.4.1",
           "date": "2024-1-17",
-          "size": "2.6 MB",
-          "downloadURL": "https://github.com/keetsta/HDRezka-altstore-source/releases/download/1.0.4.4/HDRezka.ipa",
-          "localizedDescription": "[+] изменён дефолтный язык - теперь это русский\n[+] добавлено скрытие системных элементов в плеере\n[+] добавлена опция позволяющая включить безопасную зону в плеере (полоску перекрывающую чёлку / остров)\n",
+          "size": "2.7 MB",
+          "downloadURL": "https://github.com/keetsta/HDRezka-altstore-source/releases/download/1.0.4.4.1/HDRezka.ipa",
+          "localizedDescription": "Приложение снова работает!",
           "minOSVersion": "17.0"
         }
       ],
