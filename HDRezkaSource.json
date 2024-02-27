@@ -26,10 +26,10 @@
       ],
       "versions": [
         {
-          "version": "1.0.4.4.1",
-          "date": "2024-1-17",
+          "version": "1.0.5",
+          "date": "2024-02-27",
           "size": "2.7 MB",
-          "downloadURL": "https://github.com/keetsta/HDRezka-altstore-source/releases/download/1.0.4.5/HDRezka.ipa",
+          "downloadURL": "https://github.com/keetsta/HDRezka-altstore-source/releases/download/1.0.5/HDRezka.ipa",
           "localizedDescription": "[+] поддержка вечного зеркала hdrzk.org\n[+] поддержка infuse и субтитров в нём, включить можно в настройках",
           "minOSVersion": "17.0"
         }
